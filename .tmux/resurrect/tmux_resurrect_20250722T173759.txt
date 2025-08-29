@@ -1,0 +1,25 @@
+pane	0	0	0	:Z	0	~/dev/go/shopstream | fish	:/home/sam/dev/go/shopstream	1	fish	:
+pane	0	0	0	:Z	1	~/dotfiles | fish	:/home/sam/dotfiles	0	fish	:
+pane	0	1	0	:	0	~/dev/go/shopstream | nvim	:/home/sam/dev/go/shopstream	1	nvim	:nvim .
+pane	0	2	0	:	0	~/dev/algs/cpp | nvim	:/home/sam/dev/algs/cpp	1	nvim	:nvim .
+pane	0	3	0	:	0	~/dev/algs/cpp | fish	:/home/sam/dev/algs/cpp	1	fish	:
+pane	0	4	1	:*	0	~/dev/jewelry | nvim	:/home/sam/dev/jewelry	0	nvim	:nvim .
+pane	0	4	1	:*	1	~/dev/jewelry | pnpm	:/home/sam/dev/jewelry	0	node	:node /home/sam/.local/share/pnpm/global/5/.pnpm/pnpm@10.10.0/node_modules/pnpm/bin/pnpm.cjs dev
+pane	0	4	1	:*	2	~/dev/jewelry/apps/admin | fish	:/home/sam/dev/jewelry/apps/admin	1	fish	:
+pane	0	5	0	:-	0	~/dev/full-onboard/onboard | nvim	:/home/sam/dev/full-onboard/onboard	1	nvim	:nvim .
+pane	0	6	0	:Z	0	~/dev/ladybird | fish	:/home/sam/dev/ladybird	1	fish	:
+pane	0	6	0	:Z	1	~/dotfiles/nvim-conf | fish	:/home/sam/dotfiles/nvim-conf	0	fish	:
+pane	0	7	0	:	0	~ | fish	:/home/sam	1	fish	:
+pane	0	8	0	:	0	~/dev | fish	:/home/sam/dev	1	fish	:
+pane	0	9	0	:	0	~/.ssh | fish	:/home/sam/.ssh	1	fish	:
+window	0	0	:shopstream	0	:Z	cdee,210x49,0,0[210x24,0,0,1,210x24,0,25,2]	off
+window	0	1	:http	0	:	cee0,210x49,0,0,3	off
+window	0	2	:algs	0	:	cee1,210x49,0,0,4	off
+window	0	3	:Window	0	:	cee2,210x49,0,0,5	:
+window	0	4	:padam	1	:*	3684,210x49,0,0[210x40,0,0,6,210x8,0,41{106x8,0,41,7,103x8,107,41,8}]	off
+window	0	5	:Window	0	:-	cee6,210x49,0,0,9	:
+window	0	6	:Window	0	:Z	9b29,210x49,0,0[210x19,0,0,10,210x29,0,20,11]	:
+window	0	7	:Window	0	:	67a1,210x49,0,0,12	:
+window	0	8	:Window	0	:	67a2,210x49,0,0,13	:
+window	0	9	:Window	0	:	67a3,210x49,0,0,14	:
+state	0	

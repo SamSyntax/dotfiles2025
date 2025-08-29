@@ -1,0 +1,14 @@
+pane	0	0	0	:Z	0	~/dev/go/shopstream | fish	:/home/sam/dev/go/shopstream	1	fish	:
+pane	0	0	0	:Z	1	~/dotfiles | fish	:/home/sam/dotfiles	0	fish	:
+pane	0	1	0	:	0	~/dev/go/shopstream | nvim	:/home/sam/dev/go/shopstream	1	nvim	:nvim .
+pane	0	2	0	:	0	~/dev/algs/cpp | nvim	:/home/sam/dev/algs/cpp	1	nvim	:nvim .
+pane	0	3	0	:-	0	~/dev/algs/cpp | fish	:/home/sam/dev/algs/cpp	1	fish	:
+pane	0	4	1	:*	0	~/dev/jewelry | nvim	:/home/sam/dev/jewelry	1	nvim	:nvim .
+pane	0	4	1	:*	1	~/dev/jewelry | fish	:/home/sam/dev/jewelry	0	fish	:
+pane	0	4	1	:*	2	~/dev/jewelry/apps/admin | fish	:/home/sam/dev/jewelry/apps/admin	0	fish	:
+window	0	0	:shopstream	0	:Z	cdee,210x49,0,0[210x24,0,0,1,210x24,0,25,2]	off
+window	0	1	:http	0	:	cee0,210x49,0,0,3	off
+window	0	2	:algs	0	:	cee1,210x49,0,0,4	off
+window	0	3	:Window	0	:-	cee2,210x49,0,0,5	:
+window	0	4	:padam	1	:*	3684,210x49,0,0[210x40,0,0,6,210x8,0,41{106x8,0,41,7,103x8,107,41,8}]	off
+state	0	

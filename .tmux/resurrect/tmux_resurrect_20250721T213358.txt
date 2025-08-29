@@ -1,0 +1,23 @@
+pane	0	0	0	:Z	0	~/dev/go/shopstream | fish	:/home/sam/dev/go/shopstream	1	fish	:
+pane	0	0	0	:Z	1	~/dotfiles | fish	:/home/sam/dotfiles	0	fish	:
+pane	0	1	0	:	0	~/dev/go/shopstream | nvim	:/home/sam/dev/go/shopstream	1	nvim	:nvim .
+pane	0	2	0	:	0	~/dev/algs/cpp | nvim	:/home/sam/dev/algs/cpp	1	nvim	:nvim .
+pane	0	3	0	:	0	~/dev/algs/cpp | fish	:/home/sam/dev/algs/cpp	1	fish	:
+pane	0	4	1	:*Z	0	~/dev/jewelry | nvim	:/home/sam/dev/jewelry	0	nvim	:nvim .
+pane	0	4	1	:*Z	1	~/dev/jewelry | fish	:/home/sam/dev/jewelry	1	fish	:
+pane	0	4	1	:*Z	2	 Gemini - jewelry 	:/home/sam/dev/jewelry	0	node	:node /home/sam/.nvm/versions/node/v18.20.4/bin/gemini
+pane	0	5	0	:-	0	~/dev/full-onboard/onboard | nvim	:/home/sam/dev/full-onboard/onboard	1	nvim	:nvim .
+pane	0	6	0	:Z	0	~/dotfiles | fish	:/home/sam/dotfiles	1	fish	:
+pane	0	6	0	:Z	1	~/dotfiles/nvim-conf | fish	:/home/sam/dotfiles/nvim-conf	0	fish	:
+pane	0	7	0	:	0	~ | fish	:/home/sam	1	fish	:
+pane	0	8	0	:	0	~/dev | fish	:/home/sam/dev	1	fish	:
+window	0	0	:shopstream	0	:Z	cdee,210x49,0,0[210x24,0,0,1,210x24,0,25,2]	off
+window	0	1	:http	0	:	cee0,210x49,0,0,3	off
+window	0	2	:algs	0	:	cee1,210x49,0,0,4	off
+window	0	3	:Window	0	:	cee2,210x49,0,0,5	:
+window	0	4	:padam	1	:*Z	c31e,103x49,0,0[103x40,0,0,6,103x8,0,41{52x8,0,41,7,50x8,53,41,8}]	off
+window	0	5	:Window	0	:-	b5e6,212x52,0,0,9	:
+window	0	6	:Window	0	:Z	1888,212x52,0,0[212x21,0,0,10,212x30,0,22,11]	:
+window	0	7	:Window	0	:	5b21,212x52,0,0,12	:
+window	0	8	:Window	0	:	5b24,212x52,0,0,15	:
+state	0	
